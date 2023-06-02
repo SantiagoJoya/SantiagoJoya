@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, mi nombre es Santiago Joya 👋
+## Estudiante de ingenieria de software
 
 <!--
 **SantiagoJoya/SantiagoJoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
